@@ -1,0 +1,6 @@
+CommandLines for GIT repository
+
+// Create a git 
+ 1. CD to the source folder
+ 2. git init
+ 
