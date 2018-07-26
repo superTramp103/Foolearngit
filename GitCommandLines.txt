@@ -23,4 +23,12 @@ CommandLines for GIT repository
 	2. On the CMD cd to source folder
 	3. Copy [git remote add origin https://github.com/superTramp103/Foolearngit.git] 
 	4. git remote -v
+<<<<<<< HEAD
 	5. push -u origin master 
+=======
+	5. push -u origin master 
+
+// To Export File from GitHub into PC
+ 1. On the CMD cd to source folder
+ 2. git merge origin/master
+>>>>>>> origin/master
