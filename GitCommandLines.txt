@@ -4,3 +4,23 @@ CommandLines for GIT repository
  1. CD to the source folder
  2. git init
  
+// Check if  Git track all the files
+
+ 	git status
+
+// If the file not track, we can add using
+ 	git add filename.txt
+
+// To commit and comment
+	 git commit -m "Added SQL and GIT text files"
+
+//  check recent commit using git log
+	git log
+
+
+// To import file into Github
+	1. Create git repository on gitHHub.commit
+	2. On the CMD cd to source folder
+	3. Copy [git remote add origin https://github.com/superTramp103/Foolearngit.git] 
+	4. git remote -v
+	5. push -u origin master 
